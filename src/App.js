@@ -1,25 +1,39 @@
-import logo from './logo.svg';
-import './App.css';
-import { useAppKit } from "@reown/appkit/react";
-import { useAppKitAccount } from "@reown/appkit/react";
+import React from 'react';
+import { useEffect, useState } from "react";
+import styled from 'styled-components';
+import Header from './components/Header';
+import Hero from './components/Hero';
+import Features from './components/Features';
+import Tokenomics from './components/Tokenomics';
+import IDO from './components/IDO';
+import HowItWorks from './components/HowItWorks';
+import Roadmap from './components/Roadmap';
+import Community from './components/Community';
+import Footer from './components/Footer';
+
+const AppContainer = styled.div`
+  width: 100%;
+  min-height: 100vh;
+  background: #000;
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+`;
 
 function App() {
-  const { open } = useAppKit();
-  const { isConnected, address } = useAppKitAccount();
 
-  const handleConnect = () => {
-    open({ view: "Connect", namespace: "eip155" }); // EVM ví như MetaMask, WalletConnect
-  };
 
   return (
-    <div>
-      <h1>Reown WalletKit + ReactJS</h1>
-      {isConnected ? (
-        <p>Connected wallet: {address}</p>
-      ) : (
-        <button onClick={handleConnect}>Connect Wallet</button>
-      )}
-    </div>
+    <AppContainer>
+      <Header />
+      <Hero />
+      <Features />
+      <Tokenomics />
+      <IDO />
+      <HowItWorks />
+      <Roadmap />
+      <Community />
+      <Footer />
+    </AppContainer>
   );
 }
 

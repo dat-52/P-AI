@@ -15,7 +15,10 @@
     "react-scripts": "5.0.1",
     "viem": "^2.31.0",
     "wagmi": "^2.15.6",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "styled-components": "^6.1.18",
+    "react-router-dom": "^6.24.1",
+    "ethers": "^6.13.1"
   },
   "scripts": {
     "start": "react-scripts start",
