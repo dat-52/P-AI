@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/P-AI/static/css/main.e6c13ad2.css",
-    "main.js": "/P-AI/static/js/main.82fa43e7.js",
+    "main.js": "/P-AI/static/js/main.b9cbf2d7.js",
     "static/js/8987.85464075.chunk.js": "/P-AI/static/js/8987.85464075.chunk.js",
     "static/js/9199.d3818917.chunk.js": "/P-AI/static/js/9199.d3818917.chunk.js",
     "static/js/9986.0c0cbae0.chunk.js": "/P-AI/static/js/9986.0c0cbae0.chunk.js",
@@ -194,10 +194,10 @@
     "static/js/3576.563a3623.chunk.js": "/P-AI/static/js/3576.563a3623.chunk.js",
     "static/js/4780.ef888fb0.chunk.js": "/P-AI/static/js/4780.ef888fb0.chunk.js",
     "static/media/index.cjs": "/P-AI/static/media/index.d5b35ece7c425af5eaae.cjs",
-    "static/media/HeartbeatWorker.js": "/P-AI/static/media/HeartbeatWorker.74b9532d192580a4bae1.js",
     "index.html": "/P-AI/index.html",
+    "static/media/HeartbeatWorker.js": "/P-AI/static/media/HeartbeatWorker.74b9532d192580a4bae1.js",
     "main.e6c13ad2.css.map": "/P-AI/static/css/main.e6c13ad2.css.map",
-    "main.82fa43e7.js.map": "/P-AI/static/js/main.82fa43e7.js.map",
+    "main.b9cbf2d7.js.map": "/P-AI/static/js/main.b9cbf2d7.js.map",
     "8987.85464075.chunk.js.map": "/P-AI/static/js/8987.85464075.chunk.js.map",
     "9199.d3818917.chunk.js.map": "/P-AI/static/js/9199.d3818917.chunk.js.map",
     "9986.0c0cbae0.chunk.js.map": "/P-AI/static/js/9986.0c0cbae0.chunk.js.map",
@@ -391,6 +391,6 @@
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.82fa43e7.js"
+    "static/js/main.b9cbf2d7.js"
   ]
 }
