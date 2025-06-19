@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/P-AI/static/css/main.e6c13ad2.css",
-    "main.js": "/P-AI/static/js/main.60d687f2.js",
+    "main.js": "/P-AI/static/js/main.d7e255c5.js",
     "static/js/8987.85464075.chunk.js": "/P-AI/static/js/8987.85464075.chunk.js",
     "static/js/9199.d3818917.chunk.js": "/P-AI/static/js/9199.d3818917.chunk.js",
     "static/js/9986.0c0cbae0.chunk.js": "/P-AI/static/js/9986.0c0cbae0.chunk.js",
@@ -197,7 +197,7 @@
     "index.html": "/P-AI/index.html",
     "static/media/HeartbeatWorker.js": "/P-AI/static/media/HeartbeatWorker.74b9532d192580a4bae1.js",
     "main.e6c13ad2.css.map": "/P-AI/static/css/main.e6c13ad2.css.map",
-    "main.60d687f2.js.map": "/P-AI/static/js/main.60d687f2.js.map",
+    "main.d7e255c5.js.map": "/P-AI/static/js/main.d7e255c5.js.map",
     "8987.85464075.chunk.js.map": "/P-AI/static/js/8987.85464075.chunk.js.map",
     "9199.d3818917.chunk.js.map": "/P-AI/static/js/9199.d3818917.chunk.js.map",
     "9986.0c0cbae0.chunk.js.map": "/P-AI/static/js/9986.0c0cbae0.chunk.js.map",
@@ -391,6 +391,6 @@
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.60d687f2.js"
+    "static/js/main.d7e255c5.js"
   ]
 }
